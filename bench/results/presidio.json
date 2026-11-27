@@ -1,0 +1,7047 @@
+{
+ "system": "presidio",
+ "label": "presidio-analyzer 2.2.366 (en_core_web_lg NER + all pattern recognizers, + SE_PERSONNUMMER)",
+ "seconds": 7.4,
+ "rows": [
+  {
+   "id": "plain-0",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 165.75
+  },
+  {
+   "id": "plain-1",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 70.67
+  },
+  {
+   "id": "plain-2",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.41
+  },
+  {
+   "id": "plain-3",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.18
+  },
+  {
+   "id": "plain-4",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.61
+  },
+  {
+   "id": "plain-5",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.24
+  },
+  {
+   "id": "plain-6",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.16
+  },
+  {
+   "id": "plain-7",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.45
+  },
+  {
+   "id": "plain-8",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.16
+  },
+  {
+   "id": "plain-9",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.11
+  },
+  {
+   "id": "plain-10",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.93
+  },
+  {
+   "id": "plain-11",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.29
+  },
+  {
+   "id": "plain-12",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.92
+  },
+  {
+   "id": "plain-13",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.47
+  },
+  {
+   "id": "plain-14",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.35
+  },
+  {
+   "id": "plain-15",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.15
+  },
+  {
+   "id": "plain-16",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.01
+  },
+  {
+   "id": "plain-17",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.53
+  },
+  {
+   "id": "plain-18",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.54
+  },
+  {
+   "id": "plain-19",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.65
+  },
+  {
+   "id": "plain-20",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.46
+  },
+  {
+   "id": "plain-21",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.82
+  },
+  {
+   "id": "plain-22",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.13
+  },
+  {
+   "id": "plain-23",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.7
+  },
+  {
+   "id": "plain-24",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.08
+  },
+  {
+   "id": "plain-25",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.65
+  },
+  {
+   "id": "plain-26",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.06
+  },
+  {
+   "id": "plain-27",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.56
+  },
+  {
+   "id": "plain-28",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.18
+  },
+  {
+   "id": "plain-29",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.65
+  },
+  {
+   "id": "plain-30",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.58
+  },
+  {
+   "id": "plain-31",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.78
+  },
+  {
+   "id": "plain-32",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.84
+  },
+  {
+   "id": "plain-33",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.81
+  },
+  {
+   "id": "plain-34",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.88
+  },
+  {
+   "id": "plain-35",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.27
+  },
+  {
+   "id": "plain-36",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.95
+  },
+  {
+   "id": "plain-37",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.65
+  },
+  {
+   "id": "plain-38",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.35
+  },
+  {
+   "id": "plain-39",
+   "label": "pii",
+   "evasion": "plain",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.19
+  },
+  {
+   "id": "plain_12-0",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.94
+  },
+  {
+   "id": "plain_12-1",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.52
+  },
+  {
+   "id": "plain_12-2",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.16
+  },
+  {
+   "id": "plain_12-3",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.49
+  },
+  {
+   "id": "plain_12-4",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.34
+  },
+  {
+   "id": "plain_12-5",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.23
+  },
+  {
+   "id": "plain_12-6",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.6
+  },
+  {
+   "id": "plain_12-7",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.05
+  },
+  {
+   "id": "plain_12-8",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.0
+  },
+  {
+   "id": "plain_12-9",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.17
+  },
+  {
+   "id": "plain_12-10",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.11
+  },
+  {
+   "id": "plain_12-11",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.52
+  },
+  {
+   "id": "plain_12-12",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.63
+  },
+  {
+   "id": "plain_12-13",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.93
+  },
+  {
+   "id": "plain_12-14",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.11
+  },
+  {
+   "id": "plain_12-15",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.81
+  },
+  {
+   "id": "plain_12-16",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.82
+  },
+  {
+   "id": "plain_12-17",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.19
+  },
+  {
+   "id": "plain_12-18",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.01
+  },
+  {
+   "id": "plain_12-19",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.24
+  },
+  {
+   "id": "plain_12-20",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.01
+  },
+  {
+   "id": "plain_12-21",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.03
+  },
+  {
+   "id": "plain_12-22",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.94
+  },
+  {
+   "id": "plain_12-23",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.83
+  },
+  {
+   "id": "plain_12-24",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.13
+  },
+  {
+   "id": "plain_12-25",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.22
+  },
+  {
+   "id": "plain_12-26",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.99
+  },
+  {
+   "id": "plain_12-27",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.1
+  },
+  {
+   "id": "plain_12-28",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.1
+  },
+  {
+   "id": "plain_12-29",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.33
+  },
+  {
+   "id": "plain_12-30",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.43
+  },
+  {
+   "id": "plain_12-31",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.22
+  },
+  {
+   "id": "plain_12-32",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.49
+  },
+  {
+   "id": "plain_12-33",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.92
+  },
+  {
+   "id": "plain_12-34",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.92
+  },
+  {
+   "id": "plain_12-35",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.25
+  },
+  {
+   "id": "plain_12-36",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.59
+  },
+  {
+   "id": "plain_12-37",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.26
+  },
+  {
+   "id": "plain_12-38",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.58
+  },
+  {
+   "id": "plain_12-39",
+   "label": "pii",
+   "evasion": "plain_12",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.54
+  },
+  {
+   "id": "spaced-0",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.45
+  },
+  {
+   "id": "spaced-1",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.83
+  },
+  {
+   "id": "spaced-2",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.38
+  },
+  {
+   "id": "spaced-3",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.24
+  },
+  {
+   "id": "spaced-4",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.56
+  },
+  {
+   "id": "spaced-5",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.3
+  },
+  {
+   "id": "spaced-6",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.94
+  },
+  {
+   "id": "spaced-7",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 13.5
+  },
+  {
+   "id": "spaced-8",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.61
+  },
+  {
+   "id": "spaced-9",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.71
+  },
+  {
+   "id": "spaced-10",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.84
+  },
+  {
+   "id": "spaced-11",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.1
+  },
+  {
+   "id": "spaced-12",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.8
+  },
+  {
+   "id": "spaced-13",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.19
+  },
+  {
+   "id": "spaced-14",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.39
+  },
+  {
+   "id": "spaced-15",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.95
+  },
+  {
+   "id": "spaced-16",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.5
+  },
+  {
+   "id": "spaced-17",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.51
+  },
+  {
+   "id": "spaced-18",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.41
+  },
+  {
+   "id": "spaced-19",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.32
+  },
+  {
+   "id": "spaced-20",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.23
+  },
+  {
+   "id": "spaced-21",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.49
+  },
+  {
+   "id": "spaced-22",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.19
+  },
+  {
+   "id": "spaced-23",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.0
+  },
+  {
+   "id": "spaced-24",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.95
+  },
+  {
+   "id": "spaced-25",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.22
+  },
+  {
+   "id": "spaced-26",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.64
+  },
+  {
+   "id": "spaced-27",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.79
+  },
+  {
+   "id": "spaced-28",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.29
+  },
+  {
+   "id": "spaced-29",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.75
+  },
+  {
+   "id": "spaced-30",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.7
+  },
+  {
+   "id": "spaced-31",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.03
+  },
+  {
+   "id": "spaced-32",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.79
+  },
+  {
+   "id": "spaced-33",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.44
+  },
+  {
+   "id": "spaced-34",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.83
+  },
+  {
+   "id": "spaced-35",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.46
+  },
+  {
+   "id": "spaced-36",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.52
+  },
+  {
+   "id": "spaced-37",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.03
+  },
+  {
+   "id": "spaced-38",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.1
+  },
+  {
+   "id": "spaced-39",
+   "label": "pii",
+   "evasion": "spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.65
+  },
+  {
+   "id": "dotted-0",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.64
+  },
+  {
+   "id": "dotted-1",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.17
+  },
+  {
+   "id": "dotted-2",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.04
+  },
+  {
+   "id": "dotted-3",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.8
+  },
+  {
+   "id": "dotted-4",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.26
+  },
+  {
+   "id": "dotted-5",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.65
+  },
+  {
+   "id": "dotted-6",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.03
+  },
+  {
+   "id": "dotted-7",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.65
+  },
+  {
+   "id": "dotted-8",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.17
+  },
+  {
+   "id": "dotted-9",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.21
+  },
+  {
+   "id": "dotted-10",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.73
+  },
+  {
+   "id": "dotted-11",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.0
+  },
+  {
+   "id": "dotted-12",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.05
+  },
+  {
+   "id": "dotted-13",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.45
+  },
+  {
+   "id": "dotted-14",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.19
+  },
+  {
+   "id": "dotted-15",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.9
+  },
+  {
+   "id": "dotted-16",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.96
+  },
+  {
+   "id": "dotted-17",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.9
+  },
+  {
+   "id": "dotted-18",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.35
+  },
+  {
+   "id": "dotted-19",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.72
+  },
+  {
+   "id": "dotted-20",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.84
+  },
+  {
+   "id": "dotted-21",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.1
+  },
+  {
+   "id": "dotted-22",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.91
+  },
+  {
+   "id": "dotted-23",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.99
+  },
+  {
+   "id": "dotted-24",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.84
+  },
+  {
+   "id": "dotted-25",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.55
+  },
+  {
+   "id": "dotted-26",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.14
+  },
+  {
+   "id": "dotted-27",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.27
+  },
+  {
+   "id": "dotted-28",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.08
+  },
+  {
+   "id": "dotted-29",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.9
+  },
+  {
+   "id": "dotted-30",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.23
+  },
+  {
+   "id": "dotted-31",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.49
+  },
+  {
+   "id": "dotted-32",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.18
+  },
+  {
+   "id": "dotted-33",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.98
+  },
+  {
+   "id": "dotted-34",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.75
+  },
+  {
+   "id": "dotted-35",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.21
+  },
+  {
+   "id": "dotted-36",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.97
+  },
+  {
+   "id": "dotted-37",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.33
+  },
+  {
+   "id": "dotted-38",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.37
+  },
+  {
+   "id": "dotted-39",
+   "label": "pii",
+   "evasion": "dotted",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.9
+  },
+  {
+   "id": "fullwidth-0",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.06
+  },
+  {
+   "id": "fullwidth-1",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.09
+  },
+  {
+   "id": "fullwidth-2",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.49
+  },
+  {
+   "id": "fullwidth-3",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.01
+  },
+  {
+   "id": "fullwidth-4",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.98
+  },
+  {
+   "id": "fullwidth-5",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.27
+  },
+  {
+   "id": "fullwidth-6",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.87
+  },
+  {
+   "id": "fullwidth-7",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.55
+  },
+  {
+   "id": "fullwidth-8",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.82
+  },
+  {
+   "id": "fullwidth-9",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.2
+  },
+  {
+   "id": "fullwidth-10",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.26
+  },
+  {
+   "id": "fullwidth-11",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.68
+  },
+  {
+   "id": "fullwidth-12",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.1
+  },
+  {
+   "id": "fullwidth-13",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.8
+  },
+  {
+   "id": "fullwidth-14",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.08
+  },
+  {
+   "id": "fullwidth-15",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.74
+  },
+  {
+   "id": "fullwidth-16",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.82
+  },
+  {
+   "id": "fullwidth-17",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.52
+  },
+  {
+   "id": "fullwidth-18",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.99
+  },
+  {
+   "id": "fullwidth-19",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.82
+  },
+  {
+   "id": "fullwidth-20",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.02
+  },
+  {
+   "id": "fullwidth-21",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.39
+  },
+  {
+   "id": "fullwidth-22",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.71
+  },
+  {
+   "id": "fullwidth-23",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.18
+  },
+  {
+   "id": "fullwidth-24",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.4
+  },
+  {
+   "id": "fullwidth-25",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.73
+  },
+  {
+   "id": "fullwidth-26",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.97
+  },
+  {
+   "id": "fullwidth-27",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.47
+  },
+  {
+   "id": "fullwidth-28",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.15
+  },
+  {
+   "id": "fullwidth-29",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.11
+  },
+  {
+   "id": "fullwidth-30",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.79
+  },
+  {
+   "id": "fullwidth-31",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.51
+  },
+  {
+   "id": "fullwidth-32",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.01
+  },
+  {
+   "id": "fullwidth-33",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.87
+  },
+  {
+   "id": "fullwidth-34",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.8
+  },
+  {
+   "id": "fullwidth-35",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.36
+  },
+  {
+   "id": "fullwidth-36",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.33
+  },
+  {
+   "id": "fullwidth-37",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.6
+  },
+  {
+   "id": "fullwidth-38",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.77
+  },
+  {
+   "id": "fullwidth-39",
+   "label": "pii",
+   "evasion": "fullwidth",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.15
+  },
+  {
+   "id": "zero_width-0",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.09
+  },
+  {
+   "id": "zero_width-1",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.02
+  },
+  {
+   "id": "zero_width-2",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.28
+  },
+  {
+   "id": "zero_width-3",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.85
+  },
+  {
+   "id": "zero_width-4",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.41
+  },
+  {
+   "id": "zero_width-5",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.17
+  },
+  {
+   "id": "zero_width-6",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.15
+  },
+  {
+   "id": "zero_width-7",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.78
+  },
+  {
+   "id": "zero_width-8",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.52
+  },
+  {
+   "id": "zero_width-9",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.02
+  },
+  {
+   "id": "zero_width-10",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.03
+  },
+  {
+   "id": "zero_width-11",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.04
+  },
+  {
+   "id": "zero_width-12",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.45
+  },
+  {
+   "id": "zero_width-13",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.7
+  },
+  {
+   "id": "zero_width-14",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.06
+  },
+  {
+   "id": "zero_width-15",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.81
+  },
+  {
+   "id": "zero_width-16",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.05
+  },
+  {
+   "id": "zero_width-17",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.34
+  },
+  {
+   "id": "zero_width-18",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.56
+  },
+  {
+   "id": "zero_width-19",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.09
+  },
+  {
+   "id": "zero_width-20",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.84
+  },
+  {
+   "id": "zero_width-21",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.3
+  },
+  {
+   "id": "zero_width-22",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.25
+  },
+  {
+   "id": "zero_width-23",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.16
+  },
+  {
+   "id": "zero_width-24",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.28
+  },
+  {
+   "id": "zero_width-25",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.91
+  },
+  {
+   "id": "zero_width-26",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.3
+  },
+  {
+   "id": "zero_width-27",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.46
+  },
+  {
+   "id": "zero_width-28",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.9
+  },
+  {
+   "id": "zero_width-29",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.09
+  },
+  {
+   "id": "zero_width-30",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.0
+  },
+  {
+   "id": "zero_width-31",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.05
+  },
+  {
+   "id": "zero_width-32",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.22
+  },
+  {
+   "id": "zero_width-33",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.98
+  },
+  {
+   "id": "zero_width-34",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.97
+  },
+  {
+   "id": "zero_width-35",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.98
+  },
+  {
+   "id": "zero_width-36",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.04
+  },
+  {
+   "id": "zero_width-37",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.48
+  },
+  {
+   "id": "zero_width-38",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.6
+  },
+  {
+   "id": "zero_width-39",
+   "label": "pii",
+   "evasion": "zero_width",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.13
+  },
+  {
+   "id": "fullwidth_spaced-0",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.13
+  },
+  {
+   "id": "fullwidth_spaced-1",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.68
+  },
+  {
+   "id": "fullwidth_spaced-2",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.06
+  },
+  {
+   "id": "fullwidth_spaced-3",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.76
+  },
+  {
+   "id": "fullwidth_spaced-4",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.62
+  },
+  {
+   "id": "fullwidth_spaced-5",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.82
+  },
+  {
+   "id": "fullwidth_spaced-6",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.49
+  },
+  {
+   "id": "fullwidth_spaced-7",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.62
+  },
+  {
+   "id": "fullwidth_spaced-8",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.75
+  },
+  {
+   "id": "fullwidth_spaced-9",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.9
+  },
+  {
+   "id": "fullwidth_spaced-10",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.94
+  },
+  {
+   "id": "fullwidth_spaced-11",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.88
+  },
+  {
+   "id": "fullwidth_spaced-12",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.07
+  },
+  {
+   "id": "fullwidth_spaced-13",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.5
+  },
+  {
+   "id": "fullwidth_spaced-14",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.72
+  },
+  {
+   "id": "fullwidth_spaced-15",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.92
+  },
+  {
+   "id": "fullwidth_spaced-16",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.07
+  },
+  {
+   "id": "fullwidth_spaced-17",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.53
+  },
+  {
+   "id": "fullwidth_spaced-18",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.99
+  },
+  {
+   "id": "fullwidth_spaced-19",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.52
+  },
+  {
+   "id": "fullwidth_spaced-20",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.76
+  },
+  {
+   "id": "fullwidth_spaced-21",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.82
+  },
+  {
+   "id": "fullwidth_spaced-22",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.6
+  },
+  {
+   "id": "fullwidth_spaced-23",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.28
+  },
+  {
+   "id": "fullwidth_spaced-24",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.76
+  },
+  {
+   "id": "fullwidth_spaced-25",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.72
+  },
+  {
+   "id": "fullwidth_spaced-26",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.89
+  },
+  {
+   "id": "fullwidth_spaced-27",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.77
+  },
+  {
+   "id": "fullwidth_spaced-28",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.51
+  },
+  {
+   "id": "fullwidth_spaced-29",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.72
+  },
+  {
+   "id": "fullwidth_spaced-30",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.85
+  },
+  {
+   "id": "fullwidth_spaced-31",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.8
+  },
+  {
+   "id": "fullwidth_spaced-32",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.85
+  },
+  {
+   "id": "fullwidth_spaced-33",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.3
+  },
+  {
+   "id": "fullwidth_spaced-34",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.6
+  },
+  {
+   "id": "fullwidth_spaced-35",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.73
+  },
+  {
+   "id": "fullwidth_spaced-36",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.95
+  },
+  {
+   "id": "fullwidth_spaced-37",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.76
+  },
+  {
+   "id": "fullwidth_spaced-38",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.81
+  },
+  {
+   "id": "fullwidth_spaced-39",
+   "label": "pii",
+   "evasion": "fullwidth_spaced",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.49
+  },
+  {
+   "id": "base64_tool_arg-0",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.05
+  },
+  {
+   "id": "base64_tool_arg-1",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.92
+  },
+  {
+   "id": "base64_tool_arg-2",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.26
+  },
+  {
+   "id": "base64_tool_arg-3",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.93
+  },
+  {
+   "id": "base64_tool_arg-4",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.36
+  },
+  {
+   "id": "base64_tool_arg-5",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.94
+  },
+  {
+   "id": "base64_tool_arg-6",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.12
+  },
+  {
+   "id": "base64_tool_arg-7",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.07
+  },
+  {
+   "id": "base64_tool_arg-8",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.34
+  },
+  {
+   "id": "base64_tool_arg-9",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.63
+  },
+  {
+   "id": "base64_tool_arg-10",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.65
+  },
+  {
+   "id": "base64_tool_arg-11",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.56
+  },
+  {
+   "id": "base64_tool_arg-12",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.87
+  },
+  {
+   "id": "base64_tool_arg-13",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.92
+  },
+  {
+   "id": "base64_tool_arg-14",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.49
+  },
+  {
+   "id": "base64_tool_arg-15",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.46
+  },
+  {
+   "id": "base64_tool_arg-16",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.48
+  },
+  {
+   "id": "base64_tool_arg-17",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.83
+  },
+  {
+   "id": "base64_tool_arg-18",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.95
+  },
+  {
+   "id": "base64_tool_arg-19",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.96
+  },
+  {
+   "id": "base64_tool_arg-20",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.52
+  },
+  {
+   "id": "base64_tool_arg-21",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.52
+  },
+  {
+   "id": "base64_tool_arg-22",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.84
+  },
+  {
+   "id": "base64_tool_arg-23",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.21
+  },
+  {
+   "id": "base64_tool_arg-24",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.69
+  },
+  {
+   "id": "base64_tool_arg-25",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.6
+  },
+  {
+   "id": "base64_tool_arg-26",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.67
+  },
+  {
+   "id": "base64_tool_arg-27",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.31
+  },
+  {
+   "id": "base64_tool_arg-28",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.19
+  },
+  {
+   "id": "base64_tool_arg-29",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.56
+  },
+  {
+   "id": "base64_tool_arg-30",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.42
+  },
+  {
+   "id": "base64_tool_arg-31",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.65
+  },
+  {
+   "id": "base64_tool_arg-32",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.9
+  },
+  {
+   "id": "base64_tool_arg-33",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.25
+  },
+  {
+   "id": "base64_tool_arg-34",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.51
+  },
+  {
+   "id": "base64_tool_arg-35",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.55
+  },
+  {
+   "id": "base64_tool_arg-36",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.9
+  },
+  {
+   "id": "base64_tool_arg-37",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.11
+  },
+  {
+   "id": "base64_tool_arg-38",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.03
+  },
+  {
+   "id": "base64_tool_arg-39",
+   "label": "pii",
+   "evasion": "base64_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.13
+  },
+  {
+   "id": "spelled_words-0",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.45
+  },
+  {
+   "id": "spelled_words-1",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.42
+  },
+  {
+   "id": "spelled_words-2",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.24
+  },
+  {
+   "id": "spelled_words-3",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.07
+  },
+  {
+   "id": "spelled_words-4",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.05
+  },
+  {
+   "id": "spelled_words-5",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.99
+  },
+  {
+   "id": "spelled_words-6",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.44
+  },
+  {
+   "id": "spelled_words-7",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.61
+  },
+  {
+   "id": "spelled_words-8",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.97
+  },
+  {
+   "id": "spelled_words-9",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.74
+  },
+  {
+   "id": "spelled_words-10",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.68
+  },
+  {
+   "id": "spelled_words-11",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.72
+  },
+  {
+   "id": "spelled_words-12",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.99
+  },
+  {
+   "id": "spelled_words-13",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.63
+  },
+  {
+   "id": "spelled_words-14",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.15
+  },
+  {
+   "id": "spelled_words-15",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.36
+  },
+  {
+   "id": "spelled_words-16",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.26
+  },
+  {
+   "id": "spelled_words-17",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.89
+  },
+  {
+   "id": "spelled_words-18",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.95
+  },
+  {
+   "id": "spelled_words-19",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.45
+  },
+  {
+   "id": "spelled_words-20",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.4
+  },
+  {
+   "id": "spelled_words-21",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.44
+  },
+  {
+   "id": "spelled_words-22",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.59
+  },
+  {
+   "id": "spelled_words-23",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.65
+  },
+  {
+   "id": "spelled_words-24",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.3
+  },
+  {
+   "id": "spelled_words-25",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.7
+  },
+  {
+   "id": "spelled_words-26",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.45
+  },
+  {
+   "id": "spelled_words-27",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.64
+  },
+  {
+   "id": "spelled_words-28",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.12
+  },
+  {
+   "id": "spelled_words-29",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.29
+  },
+  {
+   "id": "spelled_words-30",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.2
+  },
+  {
+   "id": "spelled_words-31",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.63
+  },
+  {
+   "id": "spelled_words-32",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.62
+  },
+  {
+   "id": "spelled_words-33",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.85
+  },
+  {
+   "id": "spelled_words-34",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.54
+  },
+  {
+   "id": "spelled_words-35",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.57
+  },
+  {
+   "id": "spelled_words-36",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.47
+  },
+  {
+   "id": "spelled_words-37",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.58
+  },
+  {
+   "id": "spelled_words-38",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.45
+  },
+  {
+   "id": "spelled_words-39",
+   "label": "pii",
+   "evasion": "spelled_words",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.23
+  },
+  {
+   "id": "homoglyph-0",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.24
+  },
+  {
+   "id": "homoglyph-1",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.65
+  },
+  {
+   "id": "homoglyph-2",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.05
+  },
+  {
+   "id": "homoglyph-3",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.26
+  },
+  {
+   "id": "homoglyph-4",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.69
+  },
+  {
+   "id": "homoglyph-5",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.12
+  },
+  {
+   "id": "homoglyph-6",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.48
+  },
+  {
+   "id": "homoglyph-7",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.62
+  },
+  {
+   "id": "homoglyph-8",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.09
+  },
+  {
+   "id": "homoglyph-9",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.73
+  },
+  {
+   "id": "homoglyph-10",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.49
+  },
+  {
+   "id": "homoglyph-11",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.7
+  },
+  {
+   "id": "homoglyph-12",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.28
+  },
+  {
+   "id": "homoglyph-13",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.2
+  },
+  {
+   "id": "homoglyph-14",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.94
+  },
+  {
+   "id": "homoglyph-15",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.95
+  },
+  {
+   "id": "homoglyph-16",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.07
+  },
+  {
+   "id": "homoglyph-17",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.96
+  },
+  {
+   "id": "homoglyph-18",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.29
+  },
+  {
+   "id": "homoglyph-19",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.62
+  },
+  {
+   "id": "homoglyph-20",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.69
+  },
+  {
+   "id": "homoglyph-21",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.42
+  },
+  {
+   "id": "homoglyph-22",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.05
+  },
+  {
+   "id": "homoglyph-23",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.73
+  },
+  {
+   "id": "homoglyph-24",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.96
+  },
+  {
+   "id": "homoglyph-25",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.61
+  },
+  {
+   "id": "homoglyph-26",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.67
+  },
+  {
+   "id": "homoglyph-27",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.12
+  },
+  {
+   "id": "homoglyph-28",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.29
+  },
+  {
+   "id": "homoglyph-29",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.55
+  },
+  {
+   "id": "homoglyph-30",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.87
+  },
+  {
+   "id": "homoglyph-31",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.77
+  },
+  {
+   "id": "homoglyph-32",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.21
+  },
+  {
+   "id": "homoglyph-33",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.51
+  },
+  {
+   "id": "homoglyph-34",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.89
+  },
+  {
+   "id": "homoglyph-35",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.79
+  },
+  {
+   "id": "homoglyph-36",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.08
+  },
+  {
+   "id": "homoglyph-37",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.86
+  },
+  {
+   "id": "homoglyph-38",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.19
+  },
+  {
+   "id": "homoglyph-39",
+   "label": "pii",
+   "evasion": "homoglyph",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.98
+  },
+  {
+   "id": "hex_tool_arg-0",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.66
+  },
+  {
+   "id": "hex_tool_arg-1",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.89
+  },
+  {
+   "id": "hex_tool_arg-2",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.97
+  },
+  {
+   "id": "hex_tool_arg-3",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.78
+  },
+  {
+   "id": "hex_tool_arg-4",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.98
+  },
+  {
+   "id": "hex_tool_arg-5",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.27
+  },
+  {
+   "id": "hex_tool_arg-6",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.92
+  },
+  {
+   "id": "hex_tool_arg-7",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.43
+  },
+  {
+   "id": "hex_tool_arg-8",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.76
+  },
+  {
+   "id": "hex_tool_arg-9",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.11
+  },
+  {
+   "id": "hex_tool_arg-10",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.03
+  },
+  {
+   "id": "hex_tool_arg-11",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.09
+  },
+  {
+   "id": "hex_tool_arg-12",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.37
+  },
+  {
+   "id": "hex_tool_arg-13",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.28
+  },
+  {
+   "id": "hex_tool_arg-14",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.08
+  },
+  {
+   "id": "hex_tool_arg-15",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.59
+  },
+  {
+   "id": "hex_tool_arg-16",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.93
+  },
+  {
+   "id": "hex_tool_arg-17",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.26
+  },
+  {
+   "id": "hex_tool_arg-18",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.29
+  },
+  {
+   "id": "hex_tool_arg-19",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.96
+  },
+  {
+   "id": "hex_tool_arg-20",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.21
+  },
+  {
+   "id": "hex_tool_arg-21",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.27
+  },
+  {
+   "id": "hex_tool_arg-22",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.72
+  },
+  {
+   "id": "hex_tool_arg-23",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.07
+  },
+  {
+   "id": "hex_tool_arg-24",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.92
+  },
+  {
+   "id": "hex_tool_arg-25",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.82
+  },
+  {
+   "id": "hex_tool_arg-26",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.31
+  },
+  {
+   "id": "hex_tool_arg-27",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.73
+  },
+  {
+   "id": "hex_tool_arg-28",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.54
+  },
+  {
+   "id": "hex_tool_arg-29",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.76
+  },
+  {
+   "id": "hex_tool_arg-30",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.0
+  },
+  {
+   "id": "hex_tool_arg-31",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.74
+  },
+  {
+   "id": "hex_tool_arg-32",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.4
+  },
+  {
+   "id": "hex_tool_arg-33",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.87
+  },
+  {
+   "id": "hex_tool_arg-34",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.61
+  },
+  {
+   "id": "hex_tool_arg-35",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.84
+  },
+  {
+   "id": "hex_tool_arg-36",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.19
+  },
+  {
+   "id": "hex_tool_arg-37",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.32
+  },
+  {
+   "id": "hex_tool_arg-38",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.62
+  },
+  {
+   "id": "hex_tool_arg-39",
+   "label": "pii",
+   "evasion": "hex_tool_arg",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.89
+  },
+  {
+   "id": "split_halves-0",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.67
+  },
+  {
+   "id": "split_halves-1",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.04
+  },
+  {
+   "id": "split_halves-2",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.51
+  },
+  {
+   "id": "split_halves-3",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.57
+  },
+  {
+   "id": "split_halves-4",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.84
+  },
+  {
+   "id": "split_halves-5",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.75
+  },
+  {
+   "id": "split_halves-6",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.83
+  },
+  {
+   "id": "split_halves-7",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.26
+  },
+  {
+   "id": "split_halves-8",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.42
+  },
+  {
+   "id": "split_halves-9",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.04
+  },
+  {
+   "id": "split_halves-10",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.02
+  },
+  {
+   "id": "split_halves-11",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.38
+  },
+  {
+   "id": "split_halves-12",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.24
+  },
+  {
+   "id": "split_halves-13",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.24
+  },
+  {
+   "id": "split_halves-14",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.62
+  },
+  {
+   "id": "split_halves-15",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.14
+  },
+  {
+   "id": "split_halves-16",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.96
+  },
+  {
+   "id": "split_halves-17",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.6
+  },
+  {
+   "id": "split_halves-18",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.57
+  },
+  {
+   "id": "split_halves-19",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.33
+  },
+  {
+   "id": "split_halves-20",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.81
+  },
+  {
+   "id": "split_halves-21",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.07
+  },
+  {
+   "id": "split_halves-22",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.79
+  },
+  {
+   "id": "split_halves-23",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.24
+  },
+  {
+   "id": "split_halves-24",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.67
+  },
+  {
+   "id": "split_halves-25",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.65
+  },
+  {
+   "id": "split_halves-26",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.67
+  },
+  {
+   "id": "split_halves-27",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.25
+  },
+  {
+   "id": "split_halves-28",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.12
+  },
+  {
+   "id": "split_halves-29",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.31
+  },
+  {
+   "id": "split_halves-30",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.51
+  },
+  {
+   "id": "split_halves-31",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.86
+  },
+  {
+   "id": "split_halves-32",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.01
+  },
+  {
+   "id": "split_halves-33",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.95
+  },
+  {
+   "id": "split_halves-34",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.82
+  },
+  {
+   "id": "split_halves-35",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.8
+  },
+  {
+   "id": "split_halves-36",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.72
+  },
+  {
+   "id": "split_halves-37",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 16.59
+  },
+  {
+   "id": "split_halves-38",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.05
+  },
+  {
+   "id": "split_halves-39",
+   "label": "pii",
+   "evasion": "split_halves",
+   "blocked": false,
+   "bad": false,
+   "ms": 16.2
+  },
+  {
+   "id": "split_no_cue-0",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.8
+  },
+  {
+   "id": "split_no_cue-1",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.07
+  },
+  {
+   "id": "split_no_cue-2",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 13.61
+  },
+  {
+   "id": "split_no_cue-3",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.02
+  },
+  {
+   "id": "split_no_cue-4",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.07
+  },
+  {
+   "id": "split_no_cue-5",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.81
+  },
+  {
+   "id": "split_no_cue-6",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.11
+  },
+  {
+   "id": "split_no_cue-7",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 13.18
+  },
+  {
+   "id": "split_no_cue-8",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 14.89
+  },
+  {
+   "id": "split_no_cue-9",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 11.76
+  },
+  {
+   "id": "split_no_cue-10",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.01
+  },
+  {
+   "id": "split_no_cue-11",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.99
+  },
+  {
+   "id": "split_no_cue-12",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.31
+  },
+  {
+   "id": "split_no_cue-13",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.95
+  },
+  {
+   "id": "split_no_cue-14",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.73
+  },
+  {
+   "id": "split_no_cue-15",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.38
+  },
+  {
+   "id": "split_no_cue-16",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.42
+  },
+  {
+   "id": "split_no_cue-17",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.15
+  },
+  {
+   "id": "split_no_cue-18",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.32
+  },
+  {
+   "id": "split_no_cue-19",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.18
+  },
+  {
+   "id": "split_no_cue-20",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.49
+  },
+  {
+   "id": "split_no_cue-21",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.42
+  },
+  {
+   "id": "split_no_cue-22",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.47
+  },
+  {
+   "id": "split_no_cue-23",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.25
+  },
+  {
+   "id": "split_no_cue-24",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.88
+  },
+  {
+   "id": "split_no_cue-25",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.61
+  },
+  {
+   "id": "split_no_cue-26",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.7
+  },
+  {
+   "id": "split_no_cue-27",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.85
+  },
+  {
+   "id": "split_no_cue-28",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.47
+  },
+  {
+   "id": "split_no_cue-29",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.32
+  },
+  {
+   "id": "split_no_cue-30",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.65
+  },
+  {
+   "id": "split_no_cue-31",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.42
+  },
+  {
+   "id": "split_no_cue-32",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.3
+  },
+  {
+   "id": "split_no_cue-33",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.25
+  },
+  {
+   "id": "split_no_cue-34",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.43
+  },
+  {
+   "id": "split_no_cue-35",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.34
+  },
+  {
+   "id": "split_no_cue-36",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 15.49
+  },
+  {
+   "id": "split_no_cue-37",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.87
+  },
+  {
+   "id": "split_no_cue-38",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.56
+  },
+  {
+   "id": "split_no_cue-39",
+   "label": "pii",
+   "evasion": "split_no_cue",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.73
+  },
+  {
+   "id": "neg-invalid_check_digit-0",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.17
+  },
+  {
+   "id": "neg-order_number-1",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.6
+  },
+  {
+   "id": "neg-date-2",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.96
+  },
+  {
+   "id": "neg-amount-3",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.64
+  },
+  {
+   "id": "neg-base64_plain_text-4",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.56
+  },
+  {
+   "id": "neg-short_spaced_digits-5",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.9
+  },
+  {
+   "id": "neg-six_then_four-6",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.98
+  },
+  {
+   "id": "neg-date_six_then_four-7",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.9
+  },
+  {
+   "id": "neg-product_code-8",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.82
+  },
+  {
+   "id": "neg-invalid_check_digit-9",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.86
+  },
+  {
+   "id": "neg-order_number-10",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.76
+  },
+  {
+   "id": "neg-date-11",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.65
+  },
+  {
+   "id": "neg-amount-12",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.35
+  },
+  {
+   "id": "neg-base64_plain_text-13",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.29
+  },
+  {
+   "id": "neg-short_spaced_digits-14",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.81
+  },
+  {
+   "id": "neg-six_then_four-15",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 18.56
+  },
+  {
+   "id": "neg-date_six_then_four-16",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 18.14
+  },
+  {
+   "id": "neg-product_code-17",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.15
+  },
+  {
+   "id": "neg-invalid_check_digit-18",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.32
+  },
+  {
+   "id": "neg-order_number-19",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.64
+  },
+  {
+   "id": "neg-date-20",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.54
+  },
+  {
+   "id": "neg-amount-21",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.53
+  },
+  {
+   "id": "neg-base64_plain_text-22",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.93
+  },
+  {
+   "id": "neg-short_spaced_digits-23",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.47
+  },
+  {
+   "id": "neg-six_then_four-24",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.06
+  },
+  {
+   "id": "neg-date_six_then_four-25",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.64
+  },
+  {
+   "id": "neg-product_code-26",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.57
+  },
+  {
+   "id": "neg-invalid_check_digit-27",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.24
+  },
+  {
+   "id": "neg-order_number-28",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.24
+  },
+  {
+   "id": "neg-date-29",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 14.97
+  },
+  {
+   "id": "neg-amount-30",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.5
+  },
+  {
+   "id": "neg-base64_plain_text-31",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.95
+  },
+  {
+   "id": "neg-short_spaced_digits-32",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.19
+  },
+  {
+   "id": "neg-six_then_four-33",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.43
+  },
+  {
+   "id": "neg-date_six_then_four-34",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.85
+  },
+  {
+   "id": "neg-product_code-35",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.98
+  },
+  {
+   "id": "neg-invalid_check_digit-36",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.65
+  },
+  {
+   "id": "neg-order_number-37",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.55
+  },
+  {
+   "id": "neg-date-38",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.17
+  },
+  {
+   "id": "neg-amount-39",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.92
+  },
+  {
+   "id": "neg-base64_plain_text-40",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.88
+  },
+  {
+   "id": "neg-short_spaced_digits-41",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.24
+  },
+  {
+   "id": "neg-six_then_four-42",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.07
+  },
+  {
+   "id": "neg-date_six_then_four-43",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.99
+  },
+  {
+   "id": "neg-product_code-44",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.86
+  },
+  {
+   "id": "neg-invalid_check_digit-45",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.19
+  },
+  {
+   "id": "neg-order_number-46",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.0
+  },
+  {
+   "id": "neg-date-47",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.46
+  },
+  {
+   "id": "neg-amount-48",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.45
+  },
+  {
+   "id": "neg-base64_plain_text-49",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.98
+  },
+  {
+   "id": "neg-short_spaced_digits-50",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.15
+  },
+  {
+   "id": "neg-six_then_four-51",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.85
+  },
+  {
+   "id": "neg-date_six_then_four-52",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.76
+  },
+  {
+   "id": "neg-product_code-53",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.49
+  },
+  {
+   "id": "neg-invalid_check_digit-54",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.46
+  },
+  {
+   "id": "neg-order_number-55",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.38
+  },
+  {
+   "id": "neg-date-56",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.56
+  },
+  {
+   "id": "neg-amount-57",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.76
+  },
+  {
+   "id": "neg-base64_plain_text-58",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.33
+  },
+  {
+   "id": "neg-short_spaced_digits-59",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.9
+  },
+  {
+   "id": "neg-six_then_four-60",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.04
+  },
+  {
+   "id": "neg-date_six_then_four-61",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.67
+  },
+  {
+   "id": "neg-product_code-62",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.66
+  },
+  {
+   "id": "neg-invalid_check_digit-63",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.86
+  },
+  {
+   "id": "neg-order_number-64",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.73
+  },
+  {
+   "id": "neg-date-65",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.39
+  },
+  {
+   "id": "neg-amount-66",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.16
+  },
+  {
+   "id": "neg-base64_plain_text-67",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.25
+  },
+  {
+   "id": "neg-short_spaced_digits-68",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.35
+  },
+  {
+   "id": "neg-six_then_four-69",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.23
+  },
+  {
+   "id": "neg-date_six_then_four-70",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.91
+  },
+  {
+   "id": "neg-product_code-71",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.07
+  },
+  {
+   "id": "neg-invalid_check_digit-72",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.28
+  },
+  {
+   "id": "neg-order_number-73",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.53
+  },
+  {
+   "id": "neg-date-74",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.72
+  },
+  {
+   "id": "neg-amount-75",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.35
+  },
+  {
+   "id": "neg-base64_plain_text-76",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.62
+  },
+  {
+   "id": "neg-short_spaced_digits-77",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.89
+  },
+  {
+   "id": "neg-six_then_four-78",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.22
+  },
+  {
+   "id": "neg-date_six_then_four-79",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.52
+  },
+  {
+   "id": "neg-product_code-80",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.62
+  },
+  {
+   "id": "neg-invalid_check_digit-81",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.46
+  },
+  {
+   "id": "neg-order_number-82",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.53
+  },
+  {
+   "id": "neg-date-83",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.99
+  },
+  {
+   "id": "neg-amount-84",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.28
+  },
+  {
+   "id": "neg-base64_plain_text-85",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.49
+  },
+  {
+   "id": "neg-short_spaced_digits-86",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.67
+  },
+  {
+   "id": "neg-six_then_four-87",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.85
+  },
+  {
+   "id": "neg-date_six_then_four-88",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.69
+  },
+  {
+   "id": "neg-product_code-89",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.12
+  },
+  {
+   "id": "neg-invalid_check_digit-90",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.63
+  },
+  {
+   "id": "neg-order_number-91",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.83
+  },
+  {
+   "id": "neg-date-92",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 24.57
+  },
+  {
+   "id": "neg-amount-93",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 20.19
+  },
+  {
+   "id": "neg-base64_plain_text-94",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.64
+  },
+  {
+   "id": "neg-short_spaced_digits-95",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.64
+  },
+  {
+   "id": "neg-six_then_four-96",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.27
+  },
+  {
+   "id": "neg-date_six_then_four-97",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.08
+  },
+  {
+   "id": "neg-product_code-98",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.94
+  },
+  {
+   "id": "neg-invalid_check_digit-99",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.13
+  },
+  {
+   "id": "neg-order_number-100",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.6
+  },
+  {
+   "id": "neg-date-101",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.64
+  },
+  {
+   "id": "neg-amount-102",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.49
+  },
+  {
+   "id": "neg-base64_plain_text-103",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.56
+  },
+  {
+   "id": "neg-short_spaced_digits-104",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.0
+  },
+  {
+   "id": "neg-six_then_four-105",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.86
+  },
+  {
+   "id": "neg-date_six_then_four-106",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.79
+  },
+  {
+   "id": "neg-product_code-107",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.37
+  },
+  {
+   "id": "neg-invalid_check_digit-108",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.05
+  },
+  {
+   "id": "neg-order_number-109",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.25
+  },
+  {
+   "id": "neg-date-110",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.65
+  },
+  {
+   "id": "neg-amount-111",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.77
+  },
+  {
+   "id": "neg-base64_plain_text-112",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 15.59
+  },
+  {
+   "id": "neg-short_spaced_digits-113",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.78
+  },
+  {
+   "id": "neg-six_then_four-114",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.84
+  },
+  {
+   "id": "neg-date_six_then_four-115",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.57
+  },
+  {
+   "id": "neg-product_code-116",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.73
+  },
+  {
+   "id": "neg-invalid_check_digit-117",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.62
+  },
+  {
+   "id": "neg-order_number-118",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.83
+  },
+  {
+   "id": "neg-date-119",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.51
+  },
+  {
+   "id": "neg-amount-120",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.58
+  },
+  {
+   "id": "neg-base64_plain_text-121",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.44
+  },
+  {
+   "id": "neg-short_spaced_digits-122",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.1
+  },
+  {
+   "id": "neg-six_then_four-123",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.15
+  },
+  {
+   "id": "neg-date_six_then_four-124",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.64
+  },
+  {
+   "id": "neg-product_code-125",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.06
+  },
+  {
+   "id": "neg-invalid_check_digit-126",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.46
+  },
+  {
+   "id": "neg-order_number-127",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.76
+  },
+  {
+   "id": "neg-date-128",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.23
+  },
+  {
+   "id": "neg-amount-129",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.72
+  },
+  {
+   "id": "neg-base64_plain_text-130",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.73
+  },
+  {
+   "id": "neg-short_spaced_digits-131",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.71
+  },
+  {
+   "id": "neg-six_then_four-132",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.07
+  },
+  {
+   "id": "neg-date_six_then_four-133",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.7
+  },
+  {
+   "id": "neg-product_code-134",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.89
+  },
+  {
+   "id": "neg-invalid_check_digit-135",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.5
+  },
+  {
+   "id": "neg-order_number-136",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.03
+  },
+  {
+   "id": "neg-date-137",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.92
+  },
+  {
+   "id": "neg-amount-138",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.48
+  },
+  {
+   "id": "neg-base64_plain_text-139",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.78
+  },
+  {
+   "id": "neg-short_spaced_digits-140",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 14.91
+  },
+  {
+   "id": "neg-six_then_four-141",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.11
+  },
+  {
+   "id": "neg-date_six_then_four-142",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.67
+  },
+  {
+   "id": "neg-product_code-143",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.69
+  },
+  {
+   "id": "neg-invalid_check_digit-144",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.56
+  },
+  {
+   "id": "neg-order_number-145",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 13.74
+  },
+  {
+   "id": "neg-date-146",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.1
+  },
+  {
+   "id": "neg-amount-147",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 16.74
+  },
+  {
+   "id": "neg-base64_plain_text-148",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.62
+  },
+  {
+   "id": "neg-short_spaced_digits-149",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 14.57
+  },
+  {
+   "id": "neg-six_then_four-150",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.11
+  },
+  {
+   "id": "neg-date_six_then_four-151",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.84
+  },
+  {
+   "id": "neg-product_code-152",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.91
+  },
+  {
+   "id": "neg-invalid_check_digit-153",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.21
+  },
+  {
+   "id": "neg-order_number-154",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.7
+  },
+  {
+   "id": "neg-date-155",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.94
+  },
+  {
+   "id": "neg-amount-156",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.32
+  },
+  {
+   "id": "neg-base64_plain_text-157",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.36
+  },
+  {
+   "id": "neg-short_spaced_digits-158",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.7
+  },
+  {
+   "id": "neg-six_then_four-159",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.95
+  },
+  {
+   "id": "neg-date_six_then_four-160",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.46
+  },
+  {
+   "id": "neg-product_code-161",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 14.67
+  },
+  {
+   "id": "neg-invalid_check_digit-162",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.57
+  },
+  {
+   "id": "neg-order_number-163",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.97
+  },
+  {
+   "id": "neg-date-164",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.18
+  },
+  {
+   "id": "neg-amount-165",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.05
+  },
+  {
+   "id": "neg-base64_plain_text-166",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.73
+  },
+  {
+   "id": "neg-short_spaced_digits-167",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.69
+  },
+  {
+   "id": "neg-six_then_four-168",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.48
+  },
+  {
+   "id": "neg-date_six_then_four-169",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.51
+  },
+  {
+   "id": "neg-product_code-170",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.64
+  },
+  {
+   "id": "neg-invalid_check_digit-171",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.54
+  },
+  {
+   "id": "neg-order_number-172",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.56
+  },
+  {
+   "id": "neg-date-173",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.79
+  },
+  {
+   "id": "neg-amount-174",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.84
+  },
+  {
+   "id": "neg-base64_plain_text-175",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 4.25
+  },
+  {
+   "id": "neg-short_spaced_digits-176",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.46
+  },
+  {
+   "id": "neg-six_then_four-177",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.65
+  },
+  {
+   "id": "neg-date_six_then_four-178",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.73
+  },
+  {
+   "id": "neg-product_code-179",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.66
+  },
+  {
+   "id": "neg-invalid_check_digit-180",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.29
+  },
+  {
+   "id": "neg-order_number-181",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.18
+  },
+  {
+   "id": "neg-date-182",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.64
+  },
+  {
+   "id": "neg-amount-183",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.2
+  },
+  {
+   "id": "neg-base64_plain_text-184",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.31
+  },
+  {
+   "id": "neg-short_spaced_digits-185",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.59
+  },
+  {
+   "id": "neg-six_then_four-186",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.41
+  },
+  {
+   "id": "neg-date_six_then_four-187",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.84
+  },
+  {
+   "id": "neg-product_code-188",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.19
+  },
+  {
+   "id": "neg-invalid_check_digit-189",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.69
+  },
+  {
+   "id": "neg-order_number-190",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 5.53
+  },
+  {
+   "id": "neg-date-191",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.18
+  },
+  {
+   "id": "neg-amount-192",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 13.35
+  },
+  {
+   "id": "neg-base64_plain_text-193",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.99
+  },
+  {
+   "id": "neg-short_spaced_digits-194",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.72
+  },
+  {
+   "id": "neg-six_then_four-195",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.58
+  },
+  {
+   "id": "neg-date_six_then_four-196",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.31
+  },
+  {
+   "id": "neg-product_code-197",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.4
+  },
+  {
+   "id": "neg-invalid_check_digit-198",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.14
+  },
+  {
+   "id": "neg-order_number-199",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.91
+  },
+  {
+   "id": "neg-date-200",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.53
+  },
+  {
+   "id": "neg-amount-201",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.88
+  },
+  {
+   "id": "neg-base64_plain_text-202",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.17
+  },
+  {
+   "id": "neg-short_spaced_digits-203",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.66
+  },
+  {
+   "id": "neg-six_then_four-204",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.97
+  },
+  {
+   "id": "neg-date_six_then_four-205",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.33
+  },
+  {
+   "id": "neg-product_code-206",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.74
+  },
+  {
+   "id": "neg-invalid_check_digit-207",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.41
+  },
+  {
+   "id": "neg-order_number-208",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.88
+  },
+  {
+   "id": "neg-date-209",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.78
+  },
+  {
+   "id": "neg-amount-210",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.13
+  },
+  {
+   "id": "neg-base64_plain_text-211",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.59
+  },
+  {
+   "id": "neg-short_spaced_digits-212",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 14.9
+  },
+  {
+   "id": "neg-six_then_four-213",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.41
+  },
+  {
+   "id": "neg-date_six_then_four-214",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.14
+  },
+  {
+   "id": "neg-product_code-215",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 18.69
+  },
+  {
+   "id": "neg-invalid_check_digit-216",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.12
+  },
+  {
+   "id": "neg-order_number-217",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.72
+  },
+  {
+   "id": "neg-date-218",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.68
+  },
+  {
+   "id": "neg-amount-219",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.95
+  },
+  {
+   "id": "neg-base64_plain_text-220",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.01
+  },
+  {
+   "id": "neg-short_spaced_digits-221",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.25
+  },
+  {
+   "id": "neg-six_then_four-222",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.51
+  },
+  {
+   "id": "neg-date_six_then_four-223",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.7
+  },
+  {
+   "id": "neg-product_code-224",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.5
+  },
+  {
+   "id": "neg-invalid_check_digit-225",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.42
+  },
+  {
+   "id": "neg-order_number-226",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.1
+  },
+  {
+   "id": "neg-date-227",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.71
+  },
+  {
+   "id": "neg-amount-228",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.85
+  },
+  {
+   "id": "neg-base64_plain_text-229",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.26
+  },
+  {
+   "id": "neg-short_spaced_digits-230",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 17.26
+  },
+  {
+   "id": "neg-six_then_four-231",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 19.91
+  },
+  {
+   "id": "neg-date_six_then_four-232",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 26.26
+  },
+  {
+   "id": "neg-product_code-233",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 13.15
+  },
+  {
+   "id": "neg-invalid_check_digit-234",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 19.17
+  },
+  {
+   "id": "neg-order_number-235",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 16.59
+  },
+  {
+   "id": "neg-date-236",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 19.14
+  },
+  {
+   "id": "neg-amount-237",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 21.08
+  },
+  {
+   "id": "neg-base64_plain_text-238",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 14.58
+  },
+  {
+   "id": "neg-short_spaced_digits-239",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 20.16
+  },
+  {
+   "id": "neg-six_then_four-240",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 17.73
+  },
+  {
+   "id": "neg-date_six_then_four-241",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.39
+  },
+  {
+   "id": "neg-product_code-242",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 17.61
+  },
+  {
+   "id": "neg-invalid_check_digit-243",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 21.89
+  },
+  {
+   "id": "neg-order_number-244",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.31
+  },
+  {
+   "id": "neg-date-245",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.52
+  },
+  {
+   "id": "neg-amount-246",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.71
+  },
+  {
+   "id": "neg-base64_plain_text-247",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.47
+  },
+  {
+   "id": "neg-short_spaced_digits-248",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.97
+  },
+  {
+   "id": "neg-six_then_four-249",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.31
+  },
+  {
+   "id": "neg-date_six_then_four-250",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.68
+  },
+  {
+   "id": "neg-product_code-251",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.1
+  },
+  {
+   "id": "neg-invalid_check_digit-252",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 10.79
+  },
+  {
+   "id": "neg-order_number-253",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.19
+  },
+  {
+   "id": "neg-date-254",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.21
+  },
+  {
+   "id": "neg-amount-255",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.0
+  },
+  {
+   "id": "neg-base64_plain_text-256",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.07
+  },
+  {
+   "id": "neg-short_spaced_digits-257",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 10.49
+  },
+  {
+   "id": "neg-six_then_four-258",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.48
+  },
+  {
+   "id": "neg-date_six_then_four-259",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.77
+  },
+  {
+   "id": "neg-product_code-260",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.85
+  },
+  {
+   "id": "neg-invalid_check_digit-261",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 17.03
+  },
+  {
+   "id": "neg-order_number-262",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 19.19
+  },
+  {
+   "id": "neg-date-263",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.32
+  },
+  {
+   "id": "neg-amount-264",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.77
+  },
+  {
+   "id": "neg-base64_plain_text-265",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.03
+  },
+  {
+   "id": "neg-short_spaced_digits-266",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.96
+  },
+  {
+   "id": "neg-six_then_four-267",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.0
+  },
+  {
+   "id": "neg-date_six_then_four-268",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.53
+  },
+  {
+   "id": "neg-product_code-269",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.54
+  },
+  {
+   "id": "neg-invalid_check_digit-270",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.91
+  },
+  {
+   "id": "neg-order_number-271",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.88
+  },
+  {
+   "id": "neg-date-272",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.82
+  },
+  {
+   "id": "neg-amount-273",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.26
+  },
+  {
+   "id": "neg-base64_plain_text-274",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.69
+  },
+  {
+   "id": "neg-short_spaced_digits-275",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.53
+  },
+  {
+   "id": "neg-six_then_four-276",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.2
+  },
+  {
+   "id": "neg-date_six_then_four-277",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.56
+  },
+  {
+   "id": "neg-product_code-278",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 37.76
+  },
+  {
+   "id": "neg-invalid_check_digit-279",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 44.33
+  },
+  {
+   "id": "neg-order_number-280",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 12.39
+  },
+  {
+   "id": "neg-date-281",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.77
+  },
+  {
+   "id": "neg-amount-282",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 19.48
+  },
+  {
+   "id": "neg-base64_plain_text-283",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.46
+  },
+  {
+   "id": "neg-short_spaced_digits-284",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.52
+  },
+  {
+   "id": "neg-six_then_four-285",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.06
+  },
+  {
+   "id": "neg-date_six_then_four-286",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.82
+  },
+  {
+   "id": "neg-product_code-287",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.16
+  },
+  {
+   "id": "neg-invalid_check_digit-288",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.84
+  },
+  {
+   "id": "neg-order_number-289",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.36
+  },
+  {
+   "id": "neg-date-290",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.11
+  },
+  {
+   "id": "neg-amount-291",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.76
+  },
+  {
+   "id": "neg-base64_plain_text-292",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 6.86
+  },
+  {
+   "id": "neg-short_spaced_digits-293",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.2
+  },
+  {
+   "id": "neg-six_then_four-294",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.54
+  },
+  {
+   "id": "neg-date_six_then_four-295",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.63
+  },
+  {
+   "id": "neg-product_code-296",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.01
+  },
+  {
+   "id": "neg-invalid_check_digit-297",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.76
+  },
+  {
+   "id": "neg-order_number-298",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.08
+  },
+  {
+   "id": "neg-date-299",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.36
+  },
+  {
+   "id": "neg-amount-300",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.4
+  },
+  {
+   "id": "neg-base64_plain_text-301",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.8
+  },
+  {
+   "id": "neg-short_spaced_digits-302",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.21
+  },
+  {
+   "id": "neg-six_then_four-303",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.6
+  },
+  {
+   "id": "neg-date_six_then_four-304",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.93
+  },
+  {
+   "id": "neg-product_code-305",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.97
+  },
+  {
+   "id": "neg-invalid_check_digit-306",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.46
+  },
+  {
+   "id": "neg-order_number-307",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.57
+  },
+  {
+   "id": "neg-date-308",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.44
+  },
+  {
+   "id": "neg-amount-309",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.94
+  },
+  {
+   "id": "neg-base64_plain_text-310",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 8.92
+  },
+  {
+   "id": "neg-short_spaced_digits-311",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.33
+  },
+  {
+   "id": "neg-six_then_four-312",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 23.55
+  },
+  {
+   "id": "neg-date_six_then_four-313",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 20.52
+  },
+  {
+   "id": "neg-product_code-314",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 15.73
+  },
+  {
+   "id": "neg-invalid_check_digit-315",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 11.23
+  },
+  {
+   "id": "neg-order_number-316",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.27
+  },
+  {
+   "id": "neg-date-317",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.21
+  },
+  {
+   "id": "neg-amount-318",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.11
+  },
+  {
+   "id": "neg-base64_plain_text-319",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.1
+  },
+  {
+   "id": "neg-short_spaced_digits-320",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.69
+  },
+  {
+   "id": "neg-six_then_four-321",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.18
+  },
+  {
+   "id": "neg-date_six_then_four-322",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.49
+  },
+  {
+   "id": "neg-product_code-323",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.49
+  },
+  {
+   "id": "neg-invalid_check_digit-324",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.39
+  },
+  {
+   "id": "neg-order_number-325",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": false,
+   "ms": 7.41
+  },
+  {
+   "id": "neg-date-326",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.27
+  },
+  {
+   "id": "neg-amount-327",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.41
+  },
+  {
+   "id": "neg-base64_plain_text-328",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.77
+  },
+  {
+   "id": "neg-short_spaced_digits-329",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.29
+  },
+  {
+   "id": "neg-six_then_four-330",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.13
+  },
+  {
+   "id": "neg-date_six_then_four-331",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 17.86
+  },
+  {
+   "id": "neg-product_code-332",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 23.08
+  },
+  {
+   "id": "neg-invalid_check_digit-333",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 17.01
+  },
+  {
+   "id": "neg-order_number-334",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 19.1
+  },
+  {
+   "id": "neg-date-335",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.22
+  },
+  {
+   "id": "neg-amount-336",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.78
+  },
+  {
+   "id": "neg-base64_plain_text-337",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": false,
+   "ms": 9.09
+  },
+  {
+   "id": "neg-short_spaced_digits-338",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.42
+  },
+  {
+   "id": "neg-six_then_four-339",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.49
+  },
+  {
+   "id": "neg-date_six_then_four-340",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 8.32
+  },
+  {
+   "id": "neg-product_code-341",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.01
+  },
+  {
+   "id": "neg-invalid_check_digit-342",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 16.17
+  },
+  {
+   "id": "neg-order_number-343",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 32.46
+  },
+  {
+   "id": "neg-date-344",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.94
+  },
+  {
+   "id": "neg-amount-345",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.97
+  },
+  {
+   "id": "neg-base64_plain_text-346",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 12.71
+  },
+  {
+   "id": "neg-short_spaced_digits-347",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.75
+  },
+  {
+   "id": "neg-six_then_four-348",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.35
+  },
+  {
+   "id": "neg-date_six_then_four-349",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.78
+  },
+  {
+   "id": "neg-product_code-350",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.51
+  },
+  {
+   "id": "neg-invalid_check_digit-351",
+   "label": "clean",
+   "evasion": "invalid_check_digit",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.83
+  },
+  {
+   "id": "neg-order_number-352",
+   "label": "clean",
+   "evasion": "order_number",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.14
+  },
+  {
+   "id": "neg-date-353",
+   "label": "clean",
+   "evasion": "date",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.03
+  },
+  {
+   "id": "neg-amount-354",
+   "label": "clean",
+   "evasion": "amount",
+   "blocked": false,
+   "bad": true,
+   "ms": 5.64
+  },
+  {
+   "id": "neg-base64_plain_text-355",
+   "label": "clean",
+   "evasion": "base64_plain_text",
+   "blocked": false,
+   "bad": true,
+   "ms": 4.65
+  },
+  {
+   "id": "neg-short_spaced_digits-356",
+   "label": "clean",
+   "evasion": "short_spaced_digits",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.07
+  },
+  {
+   "id": "neg-six_then_four-357",
+   "label": "clean",
+   "evasion": "six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 6.95
+  },
+  {
+   "id": "neg-date_six_then_four-358",
+   "label": "clean",
+   "evasion": "date_six_then_four",
+   "blocked": false,
+   "bad": true,
+   "ms": 7.5
+  },
+  {
+   "id": "neg-product_code-359",
+   "label": "clean",
+   "evasion": "product_code",
+   "blocked": false,
+   "bad": true,
+   "ms": 9.68
+  }
+ ]
+}
