@@ -1,0 +1,37 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e . pytest ruff
+      - name: Lint
+        run: ruff check . && ruff format --check .
+      - name: Test
+        run: python -m pytest -v
+      - name: Evasion benchmark (egress-grind and svenska-pii rows)
+        run: |
+          python bench/corpus.py > /tmp/corpus.jsonl
+          diff -q /tmp/corpus.jsonl bench/corpus.jsonl
+          python bench/run.py --system egress-grind
+          python bench/run.py --system svenska-pii
+      - name: Re-identification benchmark
+        run: python bench/relink_bench.py
